@@ -99,9 +99,6 @@ We appreciate the efforts of everyone who contributed to the development of BOOK
 
 If you'd like to contribute, feel free to submit a pull request or open an issue! 🚀
 
-## License 📝
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
 ## Contact 📬
 For any queries or support, reach out:
 - 📧 **Email:** vidhaanviswas9204@gmail.com
