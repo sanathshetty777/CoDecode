@@ -87,15 +87,15 @@ Here are some UI designs for BOOKME:
 ![image](https://github.com/user-attachments/assets/7397e2b7-e412-48d4-b307-fb02434f52ec)
 ![image](https://github.com/user-attachments/assets/d7e63d1f-4cf4-468b-aa59-e1d56f003a7a)
 
-## Collaborators 🤝
-We appreciate the efforts of everyone who contributed to the development of **BOOKME**.
+👥 Collaborators 🤝
+We appreciate the efforts of everyone who contributed to the development of BOOKME.
 
-- **[Vidhaan Viswas]**(https://github.com/vidhaanviswas)
-- **[Sanath Shetty]**(https://github.com/sanathshetty777)
-- **[SAI MOURYA N D]**
-- **[SAIGANESH]**
-- **[SANJAY B]**
-- **[Shashank Kote]**
+- [Vidhaan Viswas](https://github.com/vidhaanviswas)
+- [Sanath Shetty](https://github.com/sanathshetty777)
+- [SAI MOURYA N D]()
+- [SAIGANESH](https://github.com/SaiganeshShet)
+- [SANJAY B](https://github.com/sanju530)
+- [Shashank Kote](https://github.com/skote05)
 
 If you'd like to contribute, feel free to submit a pull request or open an issue! 🚀
 
