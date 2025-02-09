@@ -90,8 +90,8 @@ Here are some UI designs for BOOKME:
 ## Collaborators 🤝
 We appreciate the efforts of everyone who contributed to the development of **BOOKME**.
 
-- **[Vidhaan Viswas]**
-- **[Sanath Shetty]**
+- **[Vidhaan Viswas]**(https://github.com/vidhaanviswas)
+- **[Sanath Shetty]**(https://github.com/sanathshetty777)
 - **[SAI MOURYA N D]**
 - **[SAIGANESH]**
 - **[SANJAY B]**
