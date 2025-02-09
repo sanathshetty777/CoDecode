@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ### **Backend Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BOOKME.git
+   git clone [https://github.com/yourusername/BOOKME.git](https://github.com/vidhaanviswas/CoDecode)
    cd BOOKME/backend
    ```
 2. Install dependencies:
