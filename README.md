@@ -92,7 +92,7 @@ We appreciate the efforts of everyone who contributed to the development of BOOK
 
 - [Vidhaan Viswas](https://github.com/vidhaanviswas)
 - [Sanath Shetty](https://github.com/sanathshetty777)
-- [SAI MOURYA N D]()
+- [SAI MOURYA N D](https://github.com/Saimourya1751600)
 - [SAIGANESH](https://github.com/SaiganeshShet)
 - [SANJAY B](https://github.com/sanju530)
 - [Shashank Kote](https://github.com/skote05)
