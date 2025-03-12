@@ -102,6 +102,7 @@ If you'd like to contribute, feel free to submit a pull request or open an issue
 ## Contact 📬
 For any queries or support, reach out:
 - 📧 **Email:** vidhaanviswas9204@gmail.com
+- 📧 **Email:** sanathshetty0405@gmail.com
 
 Happy Coding! 🎉
 
